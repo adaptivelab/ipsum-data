@@ -1,0 +1,22 @@
+[
+    {
+        "name": "date",
+        "start": "2011-01-01",
+        "step": "month",
+        "type": "date"
+    },
+    {
+        "name": "twitter",
+        "start": 20,
+        "maxStep": 10,
+        "positiveWeighting": 0.8,
+        "type": "integer"
+    },
+    {
+        "name": "facebook",
+        "start": 30,
+        "maxStep": 3,
+        "positiveWeighting": 0.1,
+        "type": "integer"
+    }
+]
