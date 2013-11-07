@@ -11,7 +11,7 @@ To get setup
     $ cd path/to/this/directory
     $ virtualenv env
     $ source env/bin/activate
-    $ pip install
+    $ pip install -r requirements.txt
 
 Then to generate a new csv file
 
